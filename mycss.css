@@ -1,0 +1,27 @@
+.center{
+    text-align: center;
+  }
+  .large{
+    font-size: 30px;
+  }
+  .red{
+    color: red;
+  }
+  .example-1 {
+    width: 100%;
+    height: 200px;
+    background-color: powderblue;
+    
+  }
+  .example-2 {
+    height: 400px;
+    width: 100%;
+    background-color:powderblue;
+   
+  }
+  .example-3 {
+    width: 100%;
+    height: 250px;
+    background-color: powderblue;
+    
+  }
